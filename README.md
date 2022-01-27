@@ -1,5 +1,5 @@
 # Homebrusb
-Homebrusb is a small utility for (un)installing libusb for macOS
+Homebrusb is a libusb (Un)installer for macOS
 ## About this release
 * In the other day, there were many users on Reddit complaining about Homebrew's discontinuation of support for macOS High Sierra. libusb is a very useful library, and it's becoming indispensable for users who are interested in USB stuff. This is the reason of the release of Homebrusb
 ## Download
