@@ -7,7 +7,7 @@ Homebrusb is a libusb (Un)installer for macOS
 ## Usage
 ```
 usage: homebrusb [options]
-Homebrusb - (Un)installing libusb utility for macOS
+Homebrusb - libusb installer for macOS
 options:
     install			Install libusb
     uninstall			Uninstall libusb
