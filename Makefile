@@ -1,7 +1,7 @@
 CC = gcc
 SOURCES = homebrusb.m
 FRAMEWORKS:= -framework Foundation
-LIBRARIES:= -lobjc
+LIBRARIES:= -lobjc -lcurl
 CFLAGS=-Wall -Werror -arch x86_64 -g -v $(SOURCES)
 LDFLAGS=$(LIBRARIES) $(FRAMEWORKS)
 OUT=-o homebrusb
